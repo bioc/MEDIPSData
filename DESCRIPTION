@@ -13,4 +13,3 @@ biocViews: ExperimentData, ChIPseq, DNAMethylation,
         DifferentialExpression, HighThroughputSequencing, Methylseq,
         Preprocessing, QualityControl, Sequencing, Software,
         Visualization
-Packaged: 2012-07-10 20:15:26 UTC; lchavez
