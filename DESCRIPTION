@@ -1,9 +1,9 @@
 Package: MEDIPSData
 Type: Package
 Title: Example data for the MEDIPS package.
-Version: 0.99.2
+Version: 0.99.3
 Depends: R (>= 2.15.0)
-Date: 2012-05-13
+Date: 2013-02-25
 Author: Lukas Chavez 
 Maintainer: Lukas Chavez <lchavez@liai.org>
 Description: Data for the MEDIPS package, consisting of chromosome 22 MeDIP and control/Input sample data from DNA methylation analysis of human embryonic stem cells and mapped to the human genome hg19 using bowtie.
