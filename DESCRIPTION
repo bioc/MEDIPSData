@@ -1,7 +1,7 @@
 Package: MEDIPSData
 Type: Package
 Title: Example data for the MEDIPS package.
-Version: 1.1.1
+Version: 1.1.2
 Depends: R (>= 2.15.0)
 Date: 2013-02-25
 Author: Lukas Chavez 
