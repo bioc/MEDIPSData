@@ -1,12 +1,16 @@
 Package: MEDIPSData
 Type: Package
-Title: Example data for the MEDIPS package.
-Version: 1.9.0
+Title: Example data for MEDIPS and QSEA packages
+Version: 1.9.1
 Depends: R (>= 2.15.0)
 Date: 2013-02-25
 Author: Lukas Chavez 
 Maintainer: Lukas Chavez <lchavez@liai.org>
-Description: Data for the MEDIPS package, consisting of chromosome 22 MeDIP and control/Input sample data from DNA methylation analysis of human embryonic stem cells and mapped to the human genome hg19 using bowtie.
+Description: Example data for MEDIPS and qsea packages, consisting of chromosome 22 MeDIP 
+    and control/Input sample data.
+    Additionally, the package contains MeDIP seq data from 3 NSCLC samples 
+    and adjacent normal tissue (chr 20-22). 
+    All data has been aligned to human genome hg19.
 License: GPL (>= 2)
 LazyLoad: yes
 biocViews: ExperimentData, Genome, SequencingData
