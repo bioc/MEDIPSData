@@ -1,7 +1,7 @@
 Package: MEDIPSData
 Type: Package
 Title: Example data for MEDIPS and QSEA packages
-Version: 1.39.0
+Version: 1.40.0
 Depends: R (>= 2.15.0)
 Date: 2021-11-21
 Author: Lukas Chavez 
