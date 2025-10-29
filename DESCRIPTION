@@ -1,7 +1,7 @@
 Package: MEDIPSData
 Type: Package
 Title: Example data for MEDIPS and QSEA packages
-Version: 1.46.0
+Version: 1.47.0
 Depends: R (>= 3.5)
 Suggests: MEDIPS, GenomicRanges, qsea
 Date: 2025-07-28
